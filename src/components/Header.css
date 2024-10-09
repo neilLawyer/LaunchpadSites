@@ -1,0 +1,40 @@
+/* Header.css */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #343a40; /* Dark background for elegance */
+    padding: 10px 20px; /* Reduced padding for a smaller navbar */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    color: #ffffff;
+    font-size: 1.5rem; /* Slightly larger for emphasis */
+    margin: 0;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px; /* Space between nav items */
+}
+
+.nav-links li {
+    position: relative;
+}
+
+.nav-links a {
+    color: #ffffff; /* White text for contrast */
+    text-decoration: none;
+    font-size: 1rem; /* Increased font size for visibility */
+    padding: 5px 10px; /* Padding for clickability */
+    transition: background 0.3s, color 0.3s;
+    border-radius: 5px; /* Rounded corners for buttons */
+}
+
+.nav-links a:hover {
+    background-color: #007bff; /* Blue background on hover */
+    color: #ffffff; /* Keep text white on hover */
+}
