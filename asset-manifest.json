@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LaunchpadSites/static/css/main.8f2448ee.css",
+    "main.js": "/LaunchpadSites/static/js/main.bfaca072.js",
+    "static/media/team.jpg": "/LaunchpadSites/static/media/team.167619cf2c4a5045c918.jpg",
+    "static/media/mission.jpg": "/LaunchpadSites/static/media/mission.06e94bb3fd3341f8cc9c.jpg",
+    "index.html": "/LaunchpadSites/index.html",
+    "main.8f2448ee.css.map": "/LaunchpadSites/static/css/main.8f2448ee.css.map",
+    "main.bfaca072.js.map": "/LaunchpadSites/static/js/main.bfaca072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f2448ee.css",
+    "static/js/main.bfaca072.js"
+  ]
+}
