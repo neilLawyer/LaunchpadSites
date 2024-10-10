@@ -6,7 +6,7 @@ import Services from './components/Services';
 import ServiceDetail from './components/ServiceDetail';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-
+ 
 const App = () => {
     return (
         <Router>
