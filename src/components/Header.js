@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <header className="navbar">
             <h1 className="logo">Launchpad sites</h1>
-        <img src="IMG_0841(2).jpeg"/>
+        <img className="picturelogo" src="IMG_0841 (2).jpeg"/>
             <nav>
                 <ul className="nav-links">
                     <li><Link to="/">Home</Link></li>
