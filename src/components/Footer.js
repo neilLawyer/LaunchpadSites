@@ -3,12 +3,11 @@ import './Footer.css'; // Importing a CSS file for styles
 
 const Footer = () => {
     return (
-        <footer className="footer">
-            <p>&copy; 2024 Company Launchpad. All rights reserved.</p>
-            <div className="footer-links">
-            </div>
-        </footer>
+<footer style={{ backgroundColor: '#333', color: '#fff', textAlign: 'center', padding: '20px' }}>
+    <p>&copy; 2024 Company Launchpad. All rights reserved.</p>
+</footer>
     );
 };
+
 
 export default Footer;
