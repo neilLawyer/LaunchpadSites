@@ -45,8 +45,8 @@ const Contact = () => {
             </form>
             <div className="contact-info">
                 <h3>Contact Information</h3>
-                <p>Email: example@example.com</p>
-                <p>Phone: (123) 456-7890</p>
+                <p>Email: Charandangeti7@gmail.com</p>
+                <p>Phone: (925) 384-9399</p>
             </div>
         </section>
     );
